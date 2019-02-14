@@ -1,0 +1,6 @@
+sep=;
+Run time (s);Round;Exception;deadline;Agreement;Discounted;#agreeing;min.util.;max.util.;Dist. to Pareto;Dist. to Nash;Social Welfare;Agent 1;Agent 2;Utility 1;Utility 2;Disc. Util. 1;Disc. Util. 2;Profile 1;Profile 2
+9.759;6093;;10s;Yes;No;2;0.84833;0.85649;0.00000;0.09595;1.70482;PonPokoAgent@0;Appaloosa@1;0.8483333333333334;0.8564909885811369;0.8483333333333334;0.8564909885811369;party1_utility.xml;party2_utility.xml
+;2;Session genius.core.session.Session@75f8d0ee failed: Failed to execute protocol: Execution failed of Appaloosa@2:java.lang.NullPointerException: null:[C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class, agents.anac.y2017.ponpokoagent.PonPokoAgent];10s;No;;0;;;;;;Appaloosa;PonPokoAgent;0.0;0.0;0.0;0.0;party1_utility;party2_utility
+10.000;9767;;10s;No;No;1;0.00000;0.00000;1.03604;1.21592;0.00000;PonPokoAgent@4;Appaloosa@5;0.0;0.0;0.0;0.0;party1_utility.xml;party2_utility.xml
+;2;Session genius.core.session.Session@7e4a8e10 failed: Failed to execute protocol: Execution failed of Appaloosa@6:java.lang.NullPointerException: null:[C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class, agents.anac.y2017.ponpokoagent.PonPokoAgent];10s;No;;0;;;;;;Appaloosa;PonPokoAgent;0.0;0.0;0.0;0.0;party1_utility;party2_utility

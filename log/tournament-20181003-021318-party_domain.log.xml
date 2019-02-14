@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome currentTime="Wed Oct 03 02:13:19 EET 2018" timeOfAgreement="0.23809523809523808" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Handmade Cocktails, Location: Your Dorm, Invitations: Plain, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="8" runtime="0.112605267" finalOutcome="Bid[Food: Finger-Food, Drinks: Handmade Cocktails, Location: Your Dorm, Invitations: Plain, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="ConcederNegotiationParty@0" deadline="20rounds">
+<resultsOfAgent agent="ConcederNegotiationParty@0" agentDesc="Time-based conceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" finalUtility="0.63" discountedUtility="0.63" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa@1" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.776611467340226" discountedUtility="0.776611467340226" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Oct 03 02:13:20 EET 2018" timeOfAgreement="0.3333333333333333" lastAction="(Accept  bid:Bid[Food: Handmade Food, Drinks: Beer Only, Location: Party Tent, Invitations: Custom, Handmade, Music: MP3, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="12" runtime="0.051577785" finalOutcome="Bid[Food: Handmade Food, Drinks: Beer Only, Location: Party Tent, Invitations: Custom, Handmade, Music: MP3, Cleanup: Water and Soap, ]" startingAgent="Appaloosa@2" deadline="20rounds">
+<resultsOfAgent agent="Appaloosa@2" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.7450000000000001" discountedUtility="0.7450000000000001" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ConcederNegotiationParty@3" agentDesc="Time-based conceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" finalUtility="0.5118716940864991" discountedUtility="0.5118716940864991" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Oct 03 02:13:20 EET 2018" timeOfAgreement="0.14285714285714285" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Beer Only, Location: Ballroom, Invitations: Plain, Music: MP3, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="5" runtime="0.039146092" finalOutcome="Bid[Food: Catering, Drinks: Beer Only, Location: Ballroom, Invitations: Plain, Music: MP3, Cleanup: Water and Soap, ]" startingAgent="ConcederNegotiationParty@4" deadline="20rounds">
+<resultsOfAgent agent="ConcederNegotiationParty@4" agentDesc="Time-based conceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" finalUtility="0.6916666666666667" discountedUtility="0.6916666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa@5" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.6951237544241796" discountedUtility="0.6951237544241796" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Oct 03 02:13:20 EET 2018" timeOfAgreement="0.09523809523809523" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="2" runtime="0.019448105" finalOutcome="Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ]" startingAgent="Appaloosa@6" deadline="20rounds">
+<resultsOfAgent agent="Appaloosa@6" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.6583333333333333" discountedUtility="0.6583333333333333" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ConcederNegotiationParty@7" agentDesc="Time-based conceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" finalUtility="1.0" discountedUtility="1.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Tournament>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome currentTime="Sun Oct 07 16:58:19 EET 2018" timeOfAgreement="0.9268198404" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="4766" runtime="9.176272095" finalOutcome="Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Hired Help, ]" startingAgent="PonPokoAgent@0" deadline="10s">
+<resultsOfAgent agent="PonPokoAgent@0" agentDesc="ANAC2017" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.8297237500157859" discountedUtility="0.8297237500157859" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa@1" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.9024654385886731" discountedUtility="0.9024654385886731" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of Appaloosa@2:java.lang.NullPointerException: null" currentTime="Sun Oct 07 16:58:20 EET 2018" lastAction="null" bids="0" runtime="0.01814067" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="PonPokoAgent" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 16:58:30 EET 2018" timeOfAgreement="0.9597846678999999" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="1010" runtime="9.580145768" finalOutcome="Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ]" startingAgent="PonPokoAgent@4" deadline="10s">
+<resultsOfAgent agent="PonPokoAgent@4" agentDesc="ANAC2017" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.8447576884253204" discountedUtility="0.8447576884253204" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa@5" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.9024654385886731" discountedUtility="0.9024654385886731" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of Appaloosa@6:java.lang.NullPointerException: null" currentTime="Sun Oct 07 16:58:31 EET 2018" lastAction="null" bids="0" runtime="0.025345383" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="PonPokoAgent" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Tournament>

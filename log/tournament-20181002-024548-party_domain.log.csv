@@ -1,0 +1,46 @@
+sep=;
+Run time (s);Round;Exception;deadline;Agreement;Discounted;#agreeing;min.util.;max.util.;Dist. to Pareto;Dist. to Nash;Social Welfare;Agent 1;Agent 2;Utility 1;Utility 2;Disc. Util. 1;Disc. Util. 2;Profile 1;Profile 2
+4.517;4813;;10s;Yes;No;2;0.49465;0.97500;0.00000;0.47369;1.46965;BoulwareNegotiationParty@0;ConcederNegotiationParty@1;0.975;0.49464690002105177;0.975;0.49464690002105177;party1_utility.xml;party2_utility.xml
+1.174;1254;;10s;Yes;No;2;0.65833;1.00000;0.00000;0.14542;1.65833;ConcederNegotiationParty@2;BoulwareNegotiationParty@3;0.6583333333333333;1.0;0.6583333333333333;1.0;party1_utility.xml;party2_utility.xml
+;1;Session genius.core.session.Session@25daa3d7 failed: Failed to execute protocol: Execution failed of Appaloosa@4:java.lang.Error: Unresolved compilation problem: 
+	Syntax error, insert "}" to complete Statement
+: Unresolved compilation problem: 
+	Syntax error, insert "}" to complete Statement
+:[C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class, negotiator.parties.BoulwareNegotiationParty];10s;No;;0;;;;;;Appaloosa;BoulwareNegotiationParty;0.0;0.0;0.0;0.0;party1_utility;party2_utility
+;1;Session genius.core.session.Session@6e8de84c failed: Failed to execute protocol: Execution failed of Appaloosa@7:java.lang.Error: Unresolved compilation problem: 
+	Syntax error, insert "}" to complete Statement
+: Unresolved compilation problem: 
+	Syntax error, insert "}" to complete Statement
+:[negotiator.parties.BoulwareNegotiationParty, C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class];10s;No;;0;;;;;;BoulwareNegotiationParty;Appaloosa;0.0;0.0;0.0;0.0;party1_utility;party2_utility
+;1;Session genius.core.session.Session@2e5e3a82 failed: Failed to execute protocol: Execution failed of Appaloosa@9:java.lang.Error: Unresolved compilation problem: 
+	Syntax error, insert "}" to complete Statement
+: Unresolved compilation problem: 
+	Syntax error, insert "}" to complete Statement
+:[negotiator.parties.ConcederNegotiationParty, C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class];10s;No;;0;;;;;;ConcederNegotiationParty;Appaloosa;0.0;0.0;0.0;0.0;party1_utility;party2_utility
+;1;Session genius.core.session.Session@8cfa5d9 failed: Failed to execute protocol: Execution failed of Appaloosa@10:java.lang.Error: Unresolved compilation problem: 
+	Syntax error, insert "}" to complete Statement
+: Unresolved compilation problem: 
+	Syntax error, insert "}" to complete Statement
+:[C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class, negotiator.parties.ConcederNegotiationParty];10s;No;;0;;;;;;Appaloosa;ConcederNegotiationParty;0.0;0.0;0.0;0.0;party1_utility;party2_utility
+4.516;4875;;10s;Yes;No;2;0.49465;0.97500;0.00000;0.47369;1.46965;BoulwareNegotiationParty@12;ConcederNegotiationParty@13;0.975;0.49464690002105177;0.975;0.49464690002105177;party1_utility.xml;party2_utility.xml
+1.174;1442;;10s;Yes;No;2;0.65833;1.00000;0.00000;0.14542;1.65833;ConcederNegotiationParty@14;BoulwareNegotiationParty@15;0.6583333333333333;1.0;0.6583333333333333;1.0;party1_utility.xml;party2_utility.xml
+;1;Session genius.core.session.Session@34350b06 failed: Failed to execute protocol: Execution failed of Appaloosa@16:java.lang.Error: Unresolved compilation problem: 
+	Syntax error, insert "}" to complete Statement
+: Unresolved compilation problem: 
+	Syntax error, insert "}" to complete Statement
+:[C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class, negotiator.parties.BoulwareNegotiationParty];10s;No;;0;;;;;;Appaloosa;BoulwareNegotiationParty;0.0;0.0;0.0;0.0;party1_utility;party2_utility
+;1;Session genius.core.session.Session@2e9d79e5 failed: Failed to execute protocol: Execution failed of Appaloosa@19:java.lang.Error: Unresolved compilation problem: 
+	Syntax error, insert "}" to complete Statement
+: Unresolved compilation problem: 
+	Syntax error, insert "}" to complete Statement
+:[negotiator.parties.BoulwareNegotiationParty, C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class];10s;No;;0;;;;;;BoulwareNegotiationParty;Appaloosa;0.0;0.0;0.0;0.0;party1_utility;party2_utility
+;1;Session genius.core.session.Session@5245a27e failed: Failed to execute protocol: Execution failed of Appaloosa@21:java.lang.Error: Unresolved compilation problem: 
+	Syntax error, insert "}" to complete Statement
+: Unresolved compilation problem: 
+	Syntax error, insert "}" to complete Statement
+:[negotiator.parties.ConcederNegotiationParty, C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class];10s;No;;0;;;;;;ConcederNegotiationParty;Appaloosa;0.0;0.0;0.0;0.0;party1_utility;party2_utility
+;1;Session genius.core.session.Session@5e49d020 failed: Failed to execute protocol: Execution failed of Appaloosa@22:java.lang.Error: Unresolved compilation problem: 
+	Syntax error, insert "}" to complete Statement
+: Unresolved compilation problem: 
+	Syntax error, insert "}" to complete Statement
+:[C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class, negotiator.parties.ConcederNegotiationParty];10s;No;;0;;;;;;Appaloosa;ConcederNegotiationParty;0.0;0.0;0.0;0.0;party1_utility;party2_utility

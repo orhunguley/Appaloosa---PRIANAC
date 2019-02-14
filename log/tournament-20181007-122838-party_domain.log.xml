@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome currentTime="Sun Oct 07 12:28:48 EET 2018" lastAction="(Offer  bid:Bid[Food: Handmade Food, Drinks: Handmade Cocktails, Location: Your Dorm, Invitations: Plain, Music: Band, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="16777" runtime="10.000003553" finalOutcome="-" startingAgent="PonPokoAgent@0" deadline="10s">
+<resultsOfAgent agent="PonPokoAgent@0" agentDesc="ANAC2017" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa@1" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of Appaloosa@2:java.lang.NullPointerException: bid can not be null: bid can not be null" currentTime="Sun Oct 07 12:28:49 EET 2018" lastAction="null" bids="2" runtime="0.304960163" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="PonPokoAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of Appaloosa@5:java.lang.NullPointerException: bid can not be null: bid can not be null" currentTime="Sun Oct 07 12:28:51 EET 2018" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials, ])" bids="1" runtime="0.182566103" deadline="10s">
+<resultsOfAgent agent="PonPokoAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of Appaloosa@6:java.lang.NullPointerException: bid can not be null: bid can not be null" currentTime="Sun Oct 07 12:28:51 EET 2018" lastAction="null" bids="2" runtime="0.097590678" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="PonPokoAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Tournament>

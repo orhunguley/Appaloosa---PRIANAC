@@ -1,0 +1,229 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of GroupY@0:java.lang.IllegalArgumentException: Attribute neither nominal nor string!: Attribute neither nominal nor string!" currentTime="Mon Oct 01 18:28:57 EET 2018" lastAction="(Offer  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" bids="0" runtime="0.016188201" deadline="10s">
+<resultsOfAgent agent="GroupY" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of GroupY@3:java.lang.IllegalArgumentException: Attribute neither nominal nor string!: Attribute neither nominal nor string!" currentTime="Mon Oct 01 18:28:57 EET 2018" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: Band, Cleanup: Hired Help, ])" bids="1" runtime="0.007066153" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Oct 01 18:29:07 EET 2018" timeOfAgreement="1.0" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Photo, Music: Band, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="607" runtime="9.985439778" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Photo, Music: Band, Cleanup: Water and Soap, ]" startingAgent="BayesianAgent@4" deadline="10s">
+<resultsOfAgent agent="BayesianAgent@4" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.7112841063801868" discountedUtility="0.7112841063801868" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY@5" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="groupY.GroupY" finalUtility="0.7267533825338521" discountedUtility="0.7267533825338521" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Oct 01 18:29:17 EET 2018" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: Band, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="1676" runtime="10.000001184" finalOutcome="-" startingAgent="GroupY@6" deadline="10s">
+<resultsOfAgent agent="GroupY@6" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="groupY.GroupY" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BayesianAgent@7" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of BayesianAgent@9:java.lang.NullPointerException: null" currentTime="Mon Oct 01 18:29:17 EET 2018" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: Band, Cleanup: Hired Help, ])" bids="1" runtime="0.017071273" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BayesianAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of BayesianAgent@10:java.lang.NullPointerException: null" currentTime="Mon Oct 01 18:29:17 EET 2018" lastAction="(Offer  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" bids="0" runtime="0.008171867" deadline="10s">
+<resultsOfAgent agent="BayesianAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of GroupY@12:java.lang.NullPointerException: null" currentTime="Mon Oct 01 18:29:17 EET 2018" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials, ])" bids="0" runtime="0.004081395" deadline="10s">
+<resultsOfAgent agent="GroupY" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of GroupY@15:java.lang.IllegalArgumentException: Attribute neither nominal nor string!: Attribute neither nominal nor string!" currentTime="Mon Oct 01 18:29:17 EET 2018" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: Band, Cleanup: Hired Help, ])" bids="1" runtime="0.00481209" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Oct 01 18:29:28 EET 2018" timeOfAgreement="0.997616101" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Handmade Cocktails, Location: Your Dorm, Invitations: Custom, Handmade, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="642" runtime="9.967146336" finalOutcome="Bid[Food: Finger-Food, Drinks: Handmade Cocktails, Location: Your Dorm, Invitations: Custom, Handmade, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="BayesianAgent@16" deadline="10s">
+<resultsOfAgent agent="BayesianAgent@16" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.6675" discountedUtility="0.6675" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY@17" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="groupY.GroupY" finalUtility="0.7000002344364973" discountedUtility="0.7000002344364973" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Oct 01 18:29:38 EET 2018" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Your Dorm, Invitations: Custom, Printed, Music: DJ, Cleanup: Special Equiment, ])" domain="etc/templates/partydomain/party_domain.xml" bids="660" runtime="10.000002369" finalOutcome="-" startingAgent="GroupY@18" deadline="10s">
+<resultsOfAgent agent="GroupY@18" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="groupY.GroupY" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BayesianAgent@19" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of BayesianAgent@21:java.lang.NullPointerException: null" currentTime="Mon Oct 01 18:29:38 EET 2018" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: Band, Cleanup: Hired Help, ])" bids="1" runtime="0.017696174" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BayesianAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of BayesianAgent@22:java.lang.NullPointerException: null" currentTime="Mon Oct 01 18:29:38 EET 2018" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials, ])" bids="0" runtime="0.007410776" deadline="10s">
+<resultsOfAgent agent="BayesianAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of GroupY@24:java.lang.NullPointerException: null" currentTime="Mon Oct 01 18:29:38 EET 2018" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials, ])" bids="0" runtime="0.004122055" deadline="10s">
+<resultsOfAgent agent="GroupY" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of GroupY@27:java.lang.NullPointerException: null" currentTime="Mon Oct 01 18:29:38 EET 2018" lastAction="(Offer  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" bids="1" runtime="0.004594974" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Oct 01 18:29:46 EET 2018" timeOfAgreement="0.7155716301" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="536" runtime="7.147414953" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ]" startingAgent="BayesianAgent@28" deadline="10s">
+<resultsOfAgent agent="BayesianAgent@28" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.7849999999999999" discountedUtility="0.7849999999999999" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY@29" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="groupY.GroupY" finalUtility="0.9285654723948509" discountedUtility="0.9285654723948509" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Oct 01 18:29:54 EET 2018" timeOfAgreement="0.8180594291000001" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="575" runtime="8.172077011" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="GroupY@30" deadline="10s">
+<resultsOfAgent agent="GroupY@30" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="groupY.GroupY" finalUtility="0.9416666666666667" discountedUtility="0.9416666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BayesianAgent@31" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.6662075599338653" discountedUtility="0.6662075599338653" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of BayesianAgent@33:java.lang.NullPointerException: null" currentTime="Mon Oct 01 18:29:54 EET 2018" lastAction="(Offer  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" bids="1" runtime="0.016852577" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BayesianAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of BayesianAgent@34:java.lang.NullPointerException: null" currentTime="Mon Oct 01 18:29:54 EET 2018" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials, ])" bids="0" runtime="0.007077995" deadline="10s">
+<resultsOfAgent agent="BayesianAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of GroupY@36:java.lang.NullPointerException: null" currentTime="Mon Oct 01 18:29:54 EET 2018" lastAction="(Offer  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" bids="0" runtime="0.003472284" deadline="10s">
+<resultsOfAgent agent="GroupY" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of GroupY@39:java.lang.NullPointerException: null" currentTime="Mon Oct 01 18:29:55 EET 2018" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: Band, Cleanup: Hired Help, ])" bids="1" runtime="0.004481678" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Oct 01 18:30:05 EET 2018" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Tent, Invitations: Plain, Music: MP3, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="647" runtime="10.00000079" finalOutcome="-" startingAgent="BayesianAgent@40" deadline="10s">
+<resultsOfAgent agent="BayesianAgent@40" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY@41" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="groupY.GroupY" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Oct 01 18:30:15 EET 2018" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: Band, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="1686" runtime="10.000004343" finalOutcome="-" startingAgent="GroupY@42" deadline="10s">
+<resultsOfAgent agent="GroupY@42" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="groupY.GroupY" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BayesianAgent@43" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of BayesianAgent@45:java.lang.NullPointerException: null" currentTime="Mon Oct 01 18:30:15 EET 2018" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: Band, Cleanup: Hired Help, ])" bids="1" runtime="0.015087224" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BayesianAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of BayesianAgent@46:java.lang.NullPointerException: null" currentTime="Mon Oct 01 18:30:16 EET 2018" lastAction="(Offer  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" bids="0" runtime="0.006688765" deadline="10s">
+<resultsOfAgent agent="BayesianAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of GroupY@48:java.lang.NullPointerException: null" currentTime="Mon Oct 01 18:30:16 EET 2018" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials, ])" bids="0" runtime="0.003153715" deadline="10s">
+<resultsOfAgent agent="GroupY" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of GroupY@51:java.lang.NullPointerException: null" currentTime="Mon Oct 01 18:30:16 EET 2018" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: Band, Cleanup: Hired Help, ])" bids="1" runtime="0.005654502" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Oct 01 18:30:26 EET 2018" timeOfAgreement="0.9910945156000001" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Tent, Invitations: Photo, Music: Band, Cleanup: Specialized Materials, ])" domain="etc/templates/partydomain/party_domain.xml" bids="645" runtime="9.902547486" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Tent, Invitations: Photo, Music: Band, Cleanup: Specialized Materials, ]" startingAgent="BayesianAgent@52" deadline="10s">
+<resultsOfAgent agent="BayesianAgent@52" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.7658333333333334" discountedUtility="0.7658333333333334" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY@53" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="groupY.GroupY" finalUtility="0.7802868177474719" discountedUtility="0.7802868177474719" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Oct 01 18:30:36 EET 2018" timeOfAgreement="0.9937639423" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Ballroom, Invitations: Photo, Music: DJ, Cleanup: Specialized Materials, ])" domain="etc/templates/partydomain/party_domain.xml" bids="654" runtime="9.928645671" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Ballroom, Invitations: Photo, Music: DJ, Cleanup: Specialized Materials, ]" startingAgent="GroupY@54" deadline="10s">
+<resultsOfAgent agent="GroupY@54" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="groupY.GroupY" finalUtility="0.7533333333333333" discountedUtility="0.7533333333333333" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BayesianAgent@55" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.8721996818099332" discountedUtility="0.8721996818099332" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of BayesianAgent@57:java.lang.NullPointerException: null" currentTime="Mon Oct 01 18:30:37 EET 2018" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: Band, Cleanup: Hired Help, ])" bids="1" runtime="0.015825814" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BayesianAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of BayesianAgent@58:java.lang.NullPointerException: null" currentTime="Mon Oct 01 18:30:37 EET 2018" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials, ])" bids="0" runtime="0.007557625" deadline="10s">
+<resultsOfAgent agent="BayesianAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of GroupY@60:java.lang.NullPointerException: null" currentTime="Mon Oct 01 18:30:37 EET 2018" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials, ])" bids="0" runtime="0.003631766" deadline="10s">
+<resultsOfAgent agent="GroupY" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of GroupY@63:java.lang.NullPointerException: null" currentTime="Mon Oct 01 18:30:37 EET 2018" lastAction="(Offer  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" bids="1" runtime="0.004056525" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Oct 01 18:30:44 EET 2018" timeOfAgreement="0.6716152634" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="512" runtime="6.707158881" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ]" startingAgent="BayesianAgent@64" deadline="10s">
+<resultsOfAgent agent="BayesianAgent@64" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.7849999999999999" discountedUtility="0.7849999999999999" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY@65" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="groupY.GroupY" finalUtility="0.9285654723948509" discountedUtility="0.9285654723948509" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Oct 01 18:30:53 EET 2018" timeOfAgreement="0.8211422061" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="575" runtime="8.202883464" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="GroupY@66" deadline="10s">
+<resultsOfAgent agent="GroupY@66" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="groupY.GroupY" finalUtility="0.9416666666666667" discountedUtility="0.9416666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BayesianAgent@67" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.6662075599338653" discountedUtility="0.6662075599338653" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of BayesianAgent@69:java.lang.NullPointerException: null" currentTime="Mon Oct 01 18:30:53 EET 2018" lastAction="(Offer  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" bids="1" runtime="0.015173281" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BayesianAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of BayesianAgent@70:java.lang.NullPointerException: null" currentTime="Mon Oct 01 18:30:53 EET 2018" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials, ])" bids="0" runtime="0.007039704" deadline="10s">
+<resultsOfAgent agent="BayesianAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of GroupY@72:java.lang.NullPointerException: null" currentTime="Mon Oct 01 18:30:54 EET 2018" lastAction="(Offer  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" bids="0" runtime="0.003393727" deadline="10s">
+<resultsOfAgent agent="GroupY" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of GroupY@75:java.lang.NullPointerException: null" currentTime="Mon Oct 01 18:30:54 EET 2018" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: Band, Cleanup: Hired Help, ])" bids="1" runtime="0.00426614" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome currentTime="Wed Oct 03 01:37:27 EET 2018" timeOfAgreement="0.2727272727272727" lastAction="(Accept  bid:Bid[Food: Handmade Food, Drinks: Handmade Cocktails, Location: Ballroom, Invitations: Custom, Printed, Music: DJ, Cleanup: Specialized Materials, ])" domain="etc/templates/partydomain/party_domain.xml" bids="4" runtime="0.029284665" finalOutcome="Bid[Food: Handmade Food, Drinks: Handmade Cocktails, Location: Ballroom, Invitations: Custom, Printed, Music: DJ, Cleanup: Specialized Materials, ]" startingAgent="ConcederNegotiationParty@0" deadline="10rounds">
+<resultsOfAgent agent="ConcederNegotiationParty@0" agentDesc="Time-based conceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" finalUtility="0.7708333333333334" discountedUtility="0.7708333333333334" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa@1" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.6344372686984625" discountedUtility="0.6344372686984625" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of ConcederNegotiationParty@3:java.lang.IndexOutOfBoundsException: Index: 0, Size: 0: Index: 0, Size: 0" currentTime="Wed Oct 03 01:37:28 EET 2018" lastAction="(Offer  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" bids="1" runtime="0.033121704" deadline="10rounds">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ConcederNegotiationParty" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of ConcederNegotiationParty@4:java.lang.IndexOutOfBoundsException: Index: 0, Size: 0: Index: 0, Size: 0" currentTime="Wed Oct 03 01:37:28 EET 2018" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials, ])" bids="0" runtime="0.006941409" deadline="10rounds">
+<resultsOfAgent agent="ConcederNegotiationParty" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of ConcederNegotiationParty@7:java.lang.IndexOutOfBoundsException: Index: 0, Size: 0: Index: 0, Size: 0" currentTime="Wed Oct 03 01:37:28 EET 2018" lastAction="(Offer  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" bids="1" runtime="0.008919538" deadline="10rounds">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ConcederNegotiationParty" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Tournament>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome currentTime="Sun Oct 07 20:26:02 EET 2018" lastAction="(Offer  bid:Bid[Food: Finger-Food, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="16713" runtime="10.000017764" finalOutcome="-" startingAgent="Rubick@0" deadline="10s">
+<resultsOfAgent agent="Rubick@0" agentDesc="ANAC2017" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2017.rubick.Rubick" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa@1" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 20:26:13 EET 2018" lastAction="(Offer  bid:Bid[Food: Finger-Food, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="18292" runtime="10.000001184" finalOutcome="-" startingAgent="Appaloosa@2" deadline="10s">
+<resultsOfAgent agent="Appaloosa@2" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Rubick@3" agentDesc="ANAC2017" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2017.rubick.Rubick" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 20:26:23 EET 2018" timeOfAgreement="0.9602764168" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="19185" runtime="9.590351819" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="GroupY@4" deadline="10s">
+<resultsOfAgent agent="GroupY@4" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="groupY.GroupY" finalUtility="0.8483333333333334" discountedUtility="0.8483333333333334" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Rubick@5" agentDesc="ANAC2017" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2017.rubick.Rubick" finalUtility="0.8564909885811369" discountedUtility="0.8564909885811369" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 20:26:34 EET 2018" timeOfAgreement="0.9494274245" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="18648" runtime="9.483611459" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ]" startingAgent="Rubick@6" deadline="10s">
+<resultsOfAgent agent="Rubick@6" agentDesc="ANAC2017" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2017.rubick.Rubick" finalUtility="0.8783333333333334" discountedUtility="0.8783333333333334" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY@7" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="groupY.GroupY" finalUtility="0.7382820437475793" discountedUtility="0.7382820437475793" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 20:26:45 EET 2018" timeOfAgreement="0.8127090881000001" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="13856" runtime="8.115856487" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="Appaloosa@8" deadline="10s">
+<resultsOfAgent agent="Appaloosa@8" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.8483333333333334" discountedUtility="0.8483333333333334" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY@9" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="groupY.GroupY" finalUtility="0.8564909885811369" discountedUtility="0.8564909885811369" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 20:26:56 EET 2018" timeOfAgreement="0.9528844312" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="17847" runtime="9.520340059" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="GroupY@10" deadline="10s">
+<resultsOfAgent agent="GroupY@10" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="groupY.GroupY" finalUtility="0.8483333333333334" discountedUtility="0.8483333333333334" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa@11" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.8564909885811369" discountedUtility="0.8564909885811369" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 20:27:10 EET 2018" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="21464" runtime="10.000035133" finalOutcome="-" startingAgent="Rubick@12" deadline="10s">
+<resultsOfAgent agent="Rubick@12" agentDesc="ANAC2017" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2017.rubick.Rubick" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa@13" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 20:27:24 EET 2018" lastAction="(Offer  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Plain, Music: Band, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="15207" runtime="10.000000394" finalOutcome="-" startingAgent="Appaloosa@14" deadline="10s">
+<resultsOfAgent agent="Appaloosa@14" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Rubick@15" agentDesc="ANAC2017" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2017.rubick.Rubick" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 20:27:38 EET 2018" timeOfAgreement="0.9634553172" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="21899" runtime="9.626065104" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="GroupY@16" deadline="10s">
+<resultsOfAgent agent="GroupY@16" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="groupY.GroupY" finalUtility="0.8483333333333334" discountedUtility="0.8483333333333334" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Rubick@17" agentDesc="ANAC2017" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2017.rubick.Rubick" finalUtility="0.8564909885811369" discountedUtility="0.8564909885811369" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>

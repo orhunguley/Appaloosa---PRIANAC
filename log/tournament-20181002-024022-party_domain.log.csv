@@ -1,0 +1,14 @@
+sep=;
+Run time (s);Round;Exception;deadline;Agreement;Discounted;#agreeing;min.util.;max.util.;Dist. to Pareto;Dist. to Nash;Social Welfare;Agent 1;Agent 2;Utility 1;Utility 2;Disc. Util. 1;Disc. Util. 2;Profile 1;Profile 2
+4.516;5494;;10s;Yes;No;2;0.49465;0.97500;0.00000;0.47369;1.46965;BoulwareNegotiationParty@0;ConcederNegotiationParty@1;0.975;0.49464690002105177;0.975;0.49464690002105177;party1_utility.xml;party2_utility.xml
+1.174;1443;;10s;Yes;No;2;0.65833;1.00000;0.00000;0.14542;1.65833;ConcederNegotiationParty@2;BoulwareNegotiationParty@3;0.6583333333333333;1.0;0.6583333333333333;1.0;party1_utility.xml;party2_utility.xml
+0.006;3;;10s;Yes;No;2;0.65833;1.00000;0.00000;0.14542;1.65833;Appaloosa@4;BoulwareNegotiationParty@5;0.6583333333333333;1.0;0.6583333333333333;1.0;party1_utility.xml;party2_utility.xml
+0.004;2;;10s;Yes;No;2;0.29693;1.00000;0.00000;0.66723;1.29693;BoulwareNegotiationParty@6;Appaloosa@7;1.0;0.2969260373579895;1.0;0.2969260373579895;party1_utility.xml;party2_utility.xml
+0.003;2;;10s;Yes;No;2;0.31340;0.98750;0.00000;0.64764;1.30090;ConcederNegotiationParty@8;Appaloosa@9;0.9874999999999999;0.31340277591324467;0.9874999999999999;0.31340277591324467;party1_utility.xml;party2_utility.xml
+0.005;4;;10s;Yes;No;2;0.64583;0.98352;0.02068;0.14963;1.62936;Appaloosa@10;ConcederNegotiationParty@11;0.6458333333333333;0.9835232614447449;0.6458333333333333;0.9835232614447449;party1_utility.xml;party2_utility.xml
+4.515;5578;;10s;Yes;No;2;0.49465;0.97500;0.00000;0.47369;1.46965;BoulwareNegotiationParty@12;ConcederNegotiationParty@13;0.975;0.49464690002105177;0.975;0.49464690002105177;party1_utility.xml;party2_utility.xml
+1.174;1458;;10s;Yes;No;2;0.65833;1.00000;0.00000;0.14542;1.65833;ConcederNegotiationParty@14;BoulwareNegotiationParty@15;0.6583333333333333;1.0;0.6583333333333333;1.0;party1_utility.xml;party2_utility.xml
+0.004;4;;10s;Yes;No;2;0.65833;1.00000;0.00000;0.14542;1.65833;Appaloosa@16;BoulwareNegotiationParty@17;0.6583333333333333;1.0;0.6583333333333333;1.0;party1_utility.xml;party2_utility.xml
+0.003;2;;10s;Yes;No;2;0.29693;1.00000;0.00000;0.66723;1.29693;BoulwareNegotiationParty@18;Appaloosa@19;1.0;0.2969260373579895;1.0;0.2969260373579895;party1_utility.xml;party2_utility.xml
+0.004;3;;10s;Yes;No;2;0.31340;0.98750;0.00000;0.64764;1.30090;ConcederNegotiationParty@20;Appaloosa@21;0.9874999999999999;0.31340277591324467;0.9874999999999999;0.31340277591324467;party1_utility.xml;party2_utility.xml
+0.002;3;;10s;Yes;No;2;0.64583;0.98352;0.02068;0.14963;1.62936;Appaloosa@22;ConcederNegotiationParty@23;0.6458333333333333;0.9835232614447449;0.6458333333333333;0.9835232614447449;party1_utility.xml;party2_utility.xml

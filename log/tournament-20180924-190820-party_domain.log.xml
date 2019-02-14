@@ -1,0 +1,109 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;FunctionalAcceptor@1,Participant[Party1,PartyRepositoryItem[FunctionalAcceptor,agents.FunctionalAcceptor,Agent FunctionalAcceptor, is mediator=false],etc/templates/partydomain/party3_utility.xml]&gt;:java.lang.ClassCastException: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline" currentTime="Mon Sep 24 19:08:20 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FunctionalAcceptor" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FunctionalAcceptor" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;FunctionalAcceptor@2,Participant[Party2,PartyRepositoryItem[FunctionalAcceptor,agents.FunctionalAcceptor,Agent FunctionalAcceptor, is mediator=false],etc/templates/partydomain/party2_utility.xml]&gt;:java.lang.ClassCastException: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline" currentTime="Mon Sep 24 19:08:20 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="FunctionalAcceptor" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FunctionalAcceptor" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;FunctionalAcceptor@5,Participant[Party5,PartyRepositoryItem[FunctionalAcceptor,agents.FunctionalAcceptor,Agent FunctionalAcceptor, is mediator=false],etc/templates/partydomain/party3_utility.xml]&gt;:java.lang.ClassCastException: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline" currentTime="Mon Sep 24 19:08:20 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FunctionalAcceptor" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FunctionalAcceptor" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;FunctionalAcceptor@6,Participant[Party6,PartyRepositoryItem[FunctionalAcceptor,agents.FunctionalAcceptor,Agent FunctionalAcceptor, is mediator=false],etc/templates/partydomain/party1_utility.xml]&gt;:java.lang.ClassCastException: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline" currentTime="Mon Sep 24 19:08:20 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="FunctionalAcceptor" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FunctionalAcceptor" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;FunctionalAcceptor@9,Participant[Party9,PartyRepositoryItem[FunctionalAcceptor,agents.FunctionalAcceptor,Agent FunctionalAcceptor, is mediator=false],etc/templates/partydomain/party2_utility.xml]&gt;:java.lang.ClassCastException: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline" currentTime="Mon Sep 24 19:08:20 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FunctionalAcceptor" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FunctionalAcceptor" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;FunctionalAcceptor@10,Participant[Party10,PartyRepositoryItem[FunctionalAcceptor,agents.FunctionalAcceptor,Agent FunctionalAcceptor, is mediator=false],etc/templates/partydomain/party1_utility.xml]&gt;:java.lang.ClassCastException: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline" currentTime="Mon Sep 24 19:08:20 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="FunctionalAcceptor" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FunctionalAcceptor" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;FunctionalAcceptor@13,Participant[Party13,PartyRepositoryItem[FunctionalAcceptor,agents.FunctionalAcceptor,Agent FunctionalAcceptor, is mediator=false],etc/templates/partydomain/party3_utility.xml]&gt;:java.lang.ClassCastException: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline" currentTime="Mon Sep 24 19:08:20 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FunctionalAcceptor" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FunctionalAcceptor" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;FunctionalAcceptor@14,Participant[Party14,PartyRepositoryItem[FunctionalAcceptor,agents.FunctionalAcceptor,Agent FunctionalAcceptor, is mediator=false],etc/templates/partydomain/party2_utility.xml]&gt;:java.lang.ClassCastException: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline" currentTime="Mon Sep 24 19:08:20 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="FunctionalAcceptor" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FunctionalAcceptor" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;FunctionalAcceptor@17,Participant[Party17,PartyRepositoryItem[FunctionalAcceptor,agents.FunctionalAcceptor,Agent FunctionalAcceptor, is mediator=false],etc/templates/partydomain/party3_utility.xml]&gt;:java.lang.ClassCastException: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline" currentTime="Mon Sep 24 19:08:20 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FunctionalAcceptor" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FunctionalAcceptor" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;FunctionalAcceptor@18,Participant[Party18,PartyRepositoryItem[FunctionalAcceptor,agents.FunctionalAcceptor,Agent FunctionalAcceptor, is mediator=false],etc/templates/partydomain/party1_utility.xml]&gt;:java.lang.ClassCastException: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline" currentTime="Mon Sep 24 19:08:20 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="FunctionalAcceptor" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FunctionalAcceptor" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;FunctionalAcceptor@21,Participant[Party21,PartyRepositoryItem[FunctionalAcceptor,agents.FunctionalAcceptor,Agent FunctionalAcceptor, is mediator=false],etc/templates/partydomain/party2_utility.xml]&gt;:java.lang.ClassCastException: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline" currentTime="Mon Sep 24 19:08:20 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FunctionalAcceptor" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FunctionalAcceptor" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;FunctionalAcceptor@22,Participant[Party22,PartyRepositoryItem[FunctionalAcceptor,agents.FunctionalAcceptor,Agent FunctionalAcceptor, is mediator=false],etc/templates/partydomain/party1_utility.xml]&gt;:java.lang.ClassCastException: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline" currentTime="Mon Sep 24 19:08:20 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="FunctionalAcceptor" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FunctionalAcceptor" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;FunctionalAcceptor@25,Participant[Party25,PartyRepositoryItem[FunctionalAcceptor,agents.FunctionalAcceptor,Agent FunctionalAcceptor, is mediator=false],etc/templates/partydomain/party3_utility.xml]&gt;:java.lang.ClassCastException: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline" currentTime="Mon Sep 24 19:08:20 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FunctionalAcceptor" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FunctionalAcceptor" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;FunctionalAcceptor@26,Participant[Party26,PartyRepositoryItem[FunctionalAcceptor,agents.FunctionalAcceptor,Agent FunctionalAcceptor, is mediator=false],etc/templates/partydomain/party2_utility.xml]&gt;:java.lang.ClassCastException: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline" currentTime="Mon Sep 24 19:08:20 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="FunctionalAcceptor" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FunctionalAcceptor" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;FunctionalAcceptor@29,Participant[Party29,PartyRepositoryItem[FunctionalAcceptor,agents.FunctionalAcceptor,Agent FunctionalAcceptor, is mediator=false],etc/templates/partydomain/party3_utility.xml]&gt;:java.lang.ClassCastException: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline" currentTime="Mon Sep 24 19:08:20 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FunctionalAcceptor" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.FunctionalAcceptor" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;FunctionalAcceptor@30,Participant[Party30,PartyRepositoryItem[FunctionalAcceptor,agents.FunctionalAcceptor,Agent FunctionalAcceptor, is mediator=false],etc/templates/partydomain/party1_utility.xml]&gt;:java.lang.ClassCastException: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline" currentTime="Mon Sep 24 19:08:20 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="FunctionalAcceptor" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FunctionalAcceptor" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;FunctionalAcceptor@33,Participant[Party33,PartyRepositoryItem[FunctionalAcceptor,agents.FunctionalAcceptor,Agent FunctionalAcceptor, is mediator=false],etc/templates/partydomain/party2_utility.xml]&gt;:java.lang.ClassCastException: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline" currentTime="Mon Sep 24 19:08:20 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FunctionalAcceptor" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.FunctionalAcceptor" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;FunctionalAcceptor@34,Participant[Party34,PartyRepositoryItem[FunctionalAcceptor,agents.FunctionalAcceptor,Agent FunctionalAcceptor, is mediator=false],etc/templates/partydomain/party1_utility.xml]&gt;:java.lang.ClassCastException: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline: genius.core.timeline.ContinuousTimeline cannot be cast to genius.core.timeline.DiscreteTimeline" currentTime="Mon Sep 24 19:08:21 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="FunctionalAcceptor" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.FunctionalAcceptor" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Tournament>

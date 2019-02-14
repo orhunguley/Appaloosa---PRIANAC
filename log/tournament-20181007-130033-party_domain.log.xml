@@ -1,0 +1,49 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;GroupY@1,Participant[Party1,PartyRepositoryItem[GroupY,C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class,Appaloosa, is mediator=false],etc/templates/partydomain/party2_utility.xml]&gt;:java.lang.IllegalStateException: need standard persistent data: need standard persistent data" currentTime="Sun Oct 07 13:00:34 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="PonPokoAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;GroupY@2,Participant[Party2,PartyRepositoryItem[GroupY,C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class,Appaloosa, is mediator=false],etc/templates/partydomain/party1_utility.xml]&gt;:java.lang.IllegalStateException: need standard persistent data: need standard persistent data" currentTime="Sun Oct 07 13:00:34 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="GroupY" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="PonPokoAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;GroupY@5,Participant[Party5,PartyRepositoryItem[GroupY,C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class,Appaloosa, is mediator=false],etc/templates/partydomain/party2_utility.xml]&gt;:java.lang.IllegalStateException: need standard persistent data: need standard persistent data" currentTime="Sun Oct 07 13:00:34 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="PonPokoAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;GroupY@6,Participant[Party6,PartyRepositoryItem[GroupY,C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class,Appaloosa, is mediator=false],etc/templates/partydomain/party1_utility.xml]&gt;:java.lang.IllegalStateException: need standard persistent data: need standard persistent data" currentTime="Sun Oct 07 13:00:34 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="GroupY" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="PonPokoAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;GroupY@9,Participant[Party9,PartyRepositoryItem[GroupY,C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class,Appaloosa, is mediator=false],etc/templates/partydomain/party2_utility.xml]&gt;:java.lang.IllegalStateException: need standard persistent data: need standard persistent data" currentTime="Sun Oct 07 13:00:34 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="PonPokoAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;GroupY@10,Participant[Party10,PartyRepositoryItem[GroupY,C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class,Appaloosa, is mediator=false],etc/templates/partydomain/party1_utility.xml]&gt;:java.lang.IllegalStateException: need standard persistent data: need standard persistent data" currentTime="Sun Oct 07 13:00:34 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="GroupY" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="PonPokoAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;GroupY@13,Participant[Party13,PartyRepositoryItem[GroupY,C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class,Appaloosa, is mediator=false],etc/templates/partydomain/party2_utility.xml]&gt;:java.lang.IllegalStateException: need standard persistent data: need standard persistent data" currentTime="Sun Oct 07 13:00:34 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="PonPokoAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;GroupY@14,Participant[Party14,PartyRepositoryItem[GroupY,C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class,Appaloosa, is mediator=false],etc/templates/partydomain/party1_utility.xml]&gt;:java.lang.IllegalStateException: need standard persistent data: need standard persistent data" currentTime="Sun Oct 07 13:00:34 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="GroupY" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\groupY\GroupY.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="PonPokoAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Tournament>

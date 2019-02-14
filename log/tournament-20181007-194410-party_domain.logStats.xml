@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<agentsStatistics>
+    <statistics>
+        <agentname>agents.anac.y2017.ponpokoagent.PonPokoAgent</agentname>
+        <totalUndiscountedUtility>0.9291666666666667</totalUndiscountedUtility>
+        <totalDiscountedUtility>0.9291666666666667</totalDiscountedUtility>
+        <numberOfSessions>4</numberOfSessions>
+        <totalNashDist>3.9616561119770717</totalNashDist>
+        <totalWelfare>1.5788974880452769</totalWelfare>
+        <totalParetoDistance>3.1287997768089646</totalParetoDistance>
+        <meanDiscounted>0.23229166666666667</meanDiscounted>
+        <meanNashDistance>0.9904140279942679</meanNashDistance>
+        <meanParetoDistance>0.7821999442022411</meanParetoDistance>
+        <meanUndiscounted>0.23229166666666667</meanUndiscounted>
+        <meanWelfare>0.3947243720113192</meanWelfare>
+    </statistics>
+    <statistics>
+        <agentname>multipartyexample.Appaloosa</agentname>
+        <totalUndiscountedUtility>0.6497308213786102</totalUndiscountedUtility>
+        <totalDiscountedUtility>0.6497308213786102</totalDiscountedUtility>
+        <numberOfSessions>4</numberOfSessions>
+        <totalNashDist>3.9616561119770717</totalNashDist>
+        <totalWelfare>1.5788974880452769</totalWelfare>
+        <totalParetoDistance>3.1287997768089646</totalParetoDistance>
+        <meanDiscounted>0.16243270534465254</meanDiscounted>
+        <meanNashDistance>0.9904140279942679</meanNashDistance>
+        <meanParetoDistance>0.7821999442022411</meanParetoDistance>
+        <meanUndiscounted>0.16243270534465254</meanUndiscounted>
+        <meanWelfare>0.3947243720113192</meanWelfare>
+    </statistics>
+</agentsStatistics>

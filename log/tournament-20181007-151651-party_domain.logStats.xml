@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<agentsStatistics>
+    <statistics>
+        <agentname>groupY.GroupY</agentname>
+        <totalUndiscountedUtility>2.0836912356739443</totalUndiscountedUtility>
+        <totalDiscountedUtility>2.0836912356739443</totalDiscountedUtility>
+        <numberOfSessions>8</numberOfSessions>
+        <totalNashDist>6.837959354547282</totalNashDist>
+        <totalWelfare>4.725357902340612</totalWelfare>
+        <totalParetoDistance>5.2046482520925395</totalParetoDistance>
+        <meanDiscounted>0.26046140445924304</meanDiscounted>
+        <meanNashDistance>0.8547449193184102</meanNashDistance>
+        <meanParetoDistance>0.6505810315115674</meanParetoDistance>
+        <meanUndiscounted>0.26046140445924304</meanUndiscounted>
+        <meanWelfare>0.5906697377925765</meanWelfare>
+    </statistics>
+    <statistics>
+        <agentname>multipartyexample.Appaloosa</agentname>
+        <totalUndiscountedUtility>2.641666666666667</totalUndiscountedUtility>
+        <totalDiscountedUtility>2.641666666666667</totalDiscountedUtility>
+        <numberOfSessions>8</numberOfSessions>
+        <totalNashDist>6.837959354547282</totalNashDist>
+        <totalWelfare>4.725357902340612</totalWelfare>
+        <totalParetoDistance>5.2046482520925395</totalParetoDistance>
+        <meanDiscounted>0.3302083333333334</meanDiscounted>
+        <meanNashDistance>0.8547449193184102</meanNashDistance>
+        <meanParetoDistance>0.6505810315115674</meanParetoDistance>
+        <meanUndiscounted>0.3302083333333334</meanUndiscounted>
+        <meanWelfare>0.5906697377925765</meanWelfare>
+    </statistics>
+</agentsStatistics>

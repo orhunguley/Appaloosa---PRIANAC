@@ -1,0 +1,43 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome currentTime="Sun Oct 07 20:09:11 EET 2018" lastAction="(Offer  bid:Bid[Pie: a250, ])" domain="etc/templates/pie/pie_domain.xml" bids="22777" runtime="10.000006316" finalOutcome="-" startingAgent="PonPokoAgent@0" deadline="10s">
+<resultsOfAgent agent="PonPokoAgent@0" agentDesc="ANAC2017" utilspace="etc/templates/pie/pie_A.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa@1" agentDesc="Appaloosa" utilspace="etc/templates/pie/pie_B.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 20:09:22 EET 2018" lastAction="(Offer  bid:Bid[Pie: a167, ])" domain="etc/templates/pie/pie_domain.xml" bids="22416" runtime="10.000001184" finalOutcome="-" startingAgent="Appaloosa@2" deadline="10s">
+<resultsOfAgent agent="Appaloosa@2" agentDesc="Appaloosa" utilspace="etc/templates/pie/pie_A.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="PonPokoAgent@3" agentDesc="ANAC2017" utilspace="etc/templates/pie/pie_B.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 20:09:33 EET 2018" lastAction="(Offer  bid:Bid[Pie: a156, ])" domain="etc/templates/pie/pie_domain.xml" bids="23379" runtime="10.000000394" finalOutcome="-" startingAgent="GroupY@4" deadline="10s">
+<resultsOfAgent agent="GroupY@4" agentDesc="Appaloosa" utilspace="etc/templates/pie/pie_A.xml" agentClass="groupY.GroupY" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="PonPokoAgent@5" agentDesc="ANAC2017" utilspace="etc/templates/pie/pie_B.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 20:09:45 EET 2018" lastAction="(Offer  bid:Bid[Pie: a300, ])" domain="etc/templates/pie/pie_domain.xml" bids="23720" runtime="10.000004343" finalOutcome="-" startingAgent="PonPokoAgent@6" deadline="10s">
+<resultsOfAgent agent="PonPokoAgent@6" agentDesc="ANAC2017" utilspace="etc/templates/pie/pie_A.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY@7" agentDesc="Appaloosa" utilspace="etc/templates/pie/pie_B.xml" agentClass="groupY.GroupY" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 20:09:58 EET 2018" lastAction="(Offer  bid:Bid[Pie: a300, ])" domain="etc/templates/pie/pie_domain.xml" bids="21878" runtime="10.000011843" finalOutcome="-" startingAgent="Appaloosa@8" deadline="10s">
+<resultsOfAgent agent="Appaloosa@8" agentDesc="Appaloosa" utilspace="etc/templates/pie/pie_A.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY@9" agentDesc="Appaloosa" utilspace="etc/templates/pie/pie_B.xml" agentClass="groupY.GroupY" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 20:10:10 EET 2018" lastAction="(Offer  bid:Bid[Pie: a247, ])" domain="etc/templates/pie/pie_domain.xml" bids="18645" runtime="10.000000395" finalOutcome="-" startingAgent="GroupY@10" deadline="10s">
+<resultsOfAgent agent="GroupY@10" agentDesc="Appaloosa" utilspace="etc/templates/pie/pie_A.xml" agentClass="groupY.GroupY" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa@11" agentDesc="Appaloosa" utilspace="etc/templates/pie/pie_B.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 20:10:25 EET 2018" lastAction="(Offer  bid:Bid[Pie: a246, ])" domain="etc/templates/pie/pie_domain.xml" bids="19227" runtime="10.000000395" finalOutcome="-" startingAgent="PonPokoAgent@12" deadline="10s">
+<resultsOfAgent agent="PonPokoAgent@12" agentDesc="ANAC2017" utilspace="etc/templates/pie/pie_A.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa@13" agentDesc="Appaloosa" utilspace="etc/templates/pie/pie_B.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>

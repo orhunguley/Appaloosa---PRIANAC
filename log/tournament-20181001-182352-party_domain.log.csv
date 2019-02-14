@@ -1,0 +1,6 @@
+sep=;
+Run time (s);Round;Exception;deadline;Agreement;Discounted;#agreeing;min.util.;max.util.;Dist. to Pareto;Dist. to Nash;Social Welfare;Agent;Utility;Disc. Util.;Profile
+0.005;2;;10s;Yes;No;1;0.77500;0.77500;0.22500;0.22500;0.77500;[Appaloosa@0];[0.775];[0.775];[party1_utility.xml]
+0.015;2;;10s;Yes;No;1;1.00000;1.00000;0.00000;0.00000;1.00000;[BayesianAgent@1];[1.0];[1.0];[party1_utility.xml]
+0.001;2;;10s;Yes;No;1;0.47000;0.47000;0.53000;0.53000;0.47000;[Appaloosa@2];[0.47];[0.47];[party1_utility.xml]
+0.005;2;;10s;Yes;No;1;1.00000;1.00000;0.00000;0.00000;1.00000;[BayesianAgent@3];[1.0];[1.0];[party1_utility.xml]

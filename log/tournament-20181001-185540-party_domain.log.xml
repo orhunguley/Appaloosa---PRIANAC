@@ -1,0 +1,49 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome currentTime="Mon Oct 01 18:55:40 EET 2018" timeOfAgreement="1.9512188333333332E-4" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="2" runtime="0.007331825" finalOutcome="Bid[Food: Finger-Food, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="Appaloosa@0" deadline="180s">
+<resultsOfAgent agent="Appaloosa@0" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.4922982064725194" discountedUtility="0.4922982064725194" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa@1" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.5065507564167631" discountedUtility="0.5065507564167631" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Oct 01 18:55:41 EET 2018" timeOfAgreement="1.4884976111111112E-4" lastAction="(Accept  bid:Bid[Food: Handmade Food, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Plain, Music: Band, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="7" runtime="0.015592513" finalOutcome="Bid[Food: Handmade Food, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Plain, Music: Band, Cleanup: Water and Soap, ]" startingAgent="ABMPAgent2@2" deadline="180s">
+<resultsOfAgent agent="ABMPAgent2@2" agentDesc="Agent ABMPAgent2" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.ABMPAgent2" finalUtility="0.9236745103361714" discountedUtility="0.9236745103361714" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa@3" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.6404650895130723" discountedUtility="0.6404650895130723" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Oct 01 18:55:41 EET 2018" timeOfAgreement="8.561405E-5" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="1" runtime="0.007449857" finalOutcome="Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ]" startingAgent="BayesianAgent@4" deadline="180s">
+<resultsOfAgent agent="BayesianAgent@4" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.BayesianAgent" finalUtility="1.0" discountedUtility="1.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa@5" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.5856226065195247" discountedUtility="0.5856226065195247" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Oct 01 18:55:41 EET 2018" timeOfAgreement="8.374772777777778E-5" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Custom, Printed, Music: Band, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="2" runtime="0.007181028" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Custom, Printed, Music: Band, Cleanup: Hired Help, ]" startingAgent="Appaloosa@6" deadline="180s">
+<resultsOfAgent agent="Appaloosa@6" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.44889131368935486" discountedUtility="0.44889131368935486" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ABMPAgent2@7" agentDesc="Agent ABMPAgent2" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.ABMPAgent2" finalUtility="0.9883966566884121" discountedUtility="0.9883966566884121" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Oct 01 18:55:41 EET 2018" timeOfAgreement="2.0256963333333333E-4" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Tent, Invitations: Plain, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="21" runtime="0.028283166" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Tent, Invitations: Plain, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="ABMPAgent2@8" deadline="180s">
+<resultsOfAgent agent="ABMPAgent2@8" agentDesc="Agent ABMPAgent2" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.ABMPAgent2" finalUtility="0.7637017446244312" discountedUtility="0.7637017446244312" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ABMPAgent2@9" agentDesc="Agent ABMPAgent2" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.ABMPAgent2" finalUtility="0.8376318329087284" discountedUtility="0.8376318329087284" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Oct 01 18:55:41 EET 2018" timeOfAgreement="0.0017241654555555557" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Plain, Music: MP3, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="29" runtime="0.302403716" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Plain, Music: MP3, Cleanup: Water and Soap, ]" startingAgent="BayesianAgent@10" deadline="180s">
+<resultsOfAgent agent="BayesianAgent@10" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.9120887338395958" discountedUtility="0.9120887338395958" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ABMPAgent2@11" agentDesc="Agent ABMPAgent2" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.ABMPAgent2" finalUtility="0.7292599480062285" discountedUtility="0.7292599480062285" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Oct 01 18:55:41 EET 2018" timeOfAgreement="1.2333090555555554E-4" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: Band, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="2" runtime="0.014555881" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: Band, Cleanup: Hired Help, ]" startingAgent="Appaloosa@12" deadline="180s">
+<resultsOfAgent agent="Appaloosa@12" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.43241457513409964" discountedUtility="0.43241457513409964" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BayesianAgent@13" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.9999999999999999" discountedUtility="0.9999999999999999" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Oct 01 18:55:42 EET 2018" timeOfAgreement="0.0014458178055555555" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Tent, Invitations: Plain, Music: MP3, Cleanup: Special Equiment, ])" domain="etc/templates/partydomain/party_domain.xml" bids="28" runtime="0.252499701" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Tent, Invitations: Plain, Music: MP3, Cleanup: Special Equiment, ]" startingAgent="ABMPAgent2@14" deadline="180s">
+<resultsOfAgent agent="ABMPAgent2@14" agentDesc="Agent ABMPAgent2" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.ABMPAgent2" finalUtility="0.6151982371216707" discountedUtility="0.6151982371216707" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BayesianAgent@15" agentDesc="bayesian opponent model to guide offers" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.9114448528694914" discountedUtility="0.9114448528694914" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>

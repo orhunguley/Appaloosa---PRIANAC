@@ -1,0 +1,6 @@
+sep=;
+Run time (s);Round;Exception;deadline;Agreement;Discounted;#agreeing;min.util.;max.util.;Dist. to Pareto;Dist. to Nash;Social Welfare;Agent 1;Agent 2;Utility 1;Utility 2;Disc. Util. 1;Disc. Util. 2;Profile 1;Profile 2
+8.217;7978;;10s;Yes;No;2;0.84833;0.85649;0.00000;0.09595;1.70482;Appaloosa@0;GroupY@1;0.8483333333333334;0.8564909885811369;0.8483333333333334;0.8564909885811369;party1_utility.xml;party2_utility.xml
+9.689;10297;;10s;Yes;No;2;0.84833;0.85649;0.00000;0.09595;1.70482;GroupY@2;Appaloosa@3;0.8483333333333334;0.8564909885811369;0.8483333333333334;0.8564909885811369;party1_utility.xml;party2_utility.xml
+9.352;7452;;10s;Yes;No;2;0.83583;0.84001;0.02068;0.10210;1.67585;Appaloosa@4;GroupY@5;0.8358333333333332;0.8400142500258816;0.8358333333333332;0.8400142500258816;party1_utility.xml;party2_utility.xml
+9.558;6921;;10s;Yes;No;2;0.84833;0.85649;0.00000;0.09595;1.70482;GroupY@6;Appaloosa@7;0.8483333333333334;0.8564909885811369;0.8483333333333334;0.8564909885811369;party1_utility.xml;party2_utility.xml

@@ -1,0 +1,6 @@
+sep=;
+Run time (s);Round;Exception;deadline;Agreement;Discounted;#agreeing;min.util.;max.util.;Dist. to Pareto;Dist. to Nash;Social Welfare;Agent 1;Agent 2;Utility 1;Utility 2;Disc. Util. 1;Disc. Util. 2;Profile 1;Profile 2
+10.000;7761;;10s;No;No;1;0.00000;0.00000;1.03216;1.17788;0.00000;PonPokoAgent@0;Appaloosa@1;0.0;0.0;0.0;0.0;party8_utility.xml;party9_utility.xml
+;4;Session genius.core.session.Session@107faa82 failed: Failed to execute protocol: Execution failed of Appaloosa@2:java.lang.IllegalArgumentException: bound must be greater than origin: bound must be greater than origin:[C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class, agents.anac.y2017.ponpokoagent.PonPokoAgent];10s;No;;0;;;;;;Appaloosa;PonPokoAgent;0.0;0.0;0.0;0.0;party8_utility;party9_utility
+10.000;8528;;10s;No;No;1;0.00000;0.00000;1.03216;1.17788;0.00000;PonPokoAgent@4;Appaloosa@5;0.0;0.0;0.0;0.0;party8_utility.xml;party9_utility.xml
+;4;Session genius.core.session.Session@190a689e failed: Failed to execute protocol: Execution failed of Appaloosa@6:java.lang.IllegalArgumentException: bound must be greater than origin: bound must be greater than origin:[C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class, agents.anac.y2017.ponpokoagent.PonPokoAgent];10s;No;;0;;;;;;Appaloosa;PonPokoAgent;0.0;0.0;0.0;0.0;party8_utility;party9_utility

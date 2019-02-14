@@ -1,0 +1,145 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome currentTime="Sun Oct 07 15:30:02 EET 2018" lastAction="(Offer  bid:Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Ballroom, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment, ])" domain="etc/templates/partydomain/party_domain.xml" bids="16263" runtime="10.000009474" finalOutcome="-" startingAgent="PonPokoAgent@0" deadline="10s">
+<resultsOfAgent agent="PonPokoAgent@0" agentDesc="ANAC2017" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa@1" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 15:30:11 EET 2018" timeOfAgreement="0.8672681187" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="14829" runtime="8.654669997" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Hired Help, ]" startingAgent="Appaloosa@2" deadline="10s">
+<resultsOfAgent agent="Appaloosa@2" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.8966814308730375" discountedUtility="0.8966814308730375" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="PonPokoAgent@3" agentDesc="ANAC2017" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.8367225371504747" discountedUtility="0.8367225371504747" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 15:30:20 EET 2018" timeOfAgreement="0.7584550468" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="15103" runtime="7.574961817" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Hired Help, ]" startingAgent="GroupY@4" deadline="10s">
+<resultsOfAgent agent="GroupY@4" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="groupY.GroupY" finalUtility="0.8966814308730375" discountedUtility="0.8966814308730375" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="PonPokoAgent@5" agentDesc="ANAC2017" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.8367225371504747" discountedUtility="0.8367225371504747" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 15:30:29 EET 2018" timeOfAgreement="0.8019120458" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="16128" runtime="8.009961697" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ]" startingAgent="PonPokoAgent@6" deadline="10s">
+<resultsOfAgent agent="PonPokoAgent@6" agentDesc="ANAC2017" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.8891644616682702" discountedUtility="0.8891644616682702" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY@7" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="groupY.GroupY" finalUtility="0.863126091597135" discountedUtility="0.863126091597135" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 15:30:39 EET 2018" timeOfAgreement="0.8298896298" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="11880" runtime="8.290604424" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Hired Help, ]" startingAgent="Appaloosa@8" deadline="10s">
+<resultsOfAgent agent="Appaloosa@8" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.8966814308730375" discountedUtility="0.8966814308730375" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY@9" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="groupY.GroupY" finalUtility="0.8367225371504747" discountedUtility="0.8367225371504747" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 15:30:50 EET 2018" timeOfAgreement="0.8128042245" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="13079" runtime="8.116912463" finalOutcome="Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Hired Help, ]" startingAgent="GroupY@10" deadline="10s">
+<resultsOfAgent agent="GroupY@10" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="groupY.GroupY" finalUtility="0.8297237500157859" discountedUtility="0.8297237500157859" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa@11" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.9024654385886731" discountedUtility="0.9024654385886731" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 15:31:01 EET 2018" timeOfAgreement="0.8279377531" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="14713" runtime="8.262988004" finalOutcome="Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Hired Help, ]" startingAgent="PonPokoAgent@12" deadline="10s">
+<resultsOfAgent agent="PonPokoAgent@12" agentDesc="ANAC2017" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.8297237500157859" discountedUtility="0.8297237500157859" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa@13" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.9024654385886731" discountedUtility="0.9024654385886731" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 15:31:12 EET 2018" timeOfAgreement="0.8225949124999999" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="12461" runtime="8.21771528" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Hired Help, ]" startingAgent="Appaloosa@14" deadline="10s">
+<resultsOfAgent agent="Appaloosa@14" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.8966814308730375" discountedUtility="0.8966814308730375" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="PonPokoAgent@15" agentDesc="ANAC2017" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.8367225371504747" discountedUtility="0.8367225371504747" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 15:31:25 EET 2018" timeOfAgreement="0.9242033505" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="17175" runtime="9.233508329" finalOutcome="Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Hired Help, ]" startingAgent="GroupY@16" deadline="10s">
+<resultsOfAgent agent="GroupY@16" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="groupY.GroupY" finalUtility="0.7234950152255328" discountedUtility="0.7234950152255328" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="PonPokoAgent@17" agentDesc="ANAC2017" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.9416274624612428" discountedUtility="0.9416274624612428" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 15:31:37 EET 2018" timeOfAgreement="0.8011916929" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="14749" runtime="8.003992574" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ]" startingAgent="PonPokoAgent@18" deadline="10s">
+<resultsOfAgent agent="PonPokoAgent@18" agentDesc="ANAC2017" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.8891644616682702" discountedUtility="0.8891644616682702" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY@19" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="groupY.GroupY" finalUtility="0.863126091597135" discountedUtility="0.863126091597135" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 15:31:51 EET 2018" timeOfAgreement="0.9187836506" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="18494" runtime="9.177443735" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Hired Help, ]" startingAgent="Appaloosa@20" deadline="10s">
+<resultsOfAgent agent="Appaloosa@20" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.8741305232587357" discountedUtility="0.8741305232587357" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY@21" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="groupY.GroupY" finalUtility="0.863126091597135" discountedUtility="0.863126091597135" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 15:32:04 EET 2018" timeOfAgreement="0.8508990792000001" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="10432" runtime="8.50014981" finalOutcome="Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ]" startingAgent="GroupY@22" deadline="10s">
+<resultsOfAgent agent="GroupY@22" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="groupY.GroupY" finalUtility="0.8447576884253204" discountedUtility="0.8447576884253204" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa@23" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.9024654385886731" discountedUtility="0.9024654385886731" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 15:32:18 EET 2018" timeOfAgreement="0.8581712164" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="13324" runtime="8.573442002" finalOutcome="Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ]" startingAgent="PonPokoAgent@24" deadline="10s">
+<resultsOfAgent agent="PonPokoAgent@24" agentDesc="ANAC2017" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.8447576884253204" discountedUtility="0.8447576884253204" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa@25" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.9024654385886731" discountedUtility="0.9024654385886731" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 15:32:34 EET 2018" timeOfAgreement="0.9951501715" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="15880" runtime="9.943307741" finalOutcome="Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ]" startingAgent="Appaloosa@26" deadline="10s">
+<resultsOfAgent agent="Appaloosa@26" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.8447576884253204" discountedUtility="0.8447576884253204" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="PonPokoAgent@27" agentDesc="ANAC2017" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.9024654385886731" discountedUtility="0.9024654385886731" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 15:32:49 EET 2018" timeOfAgreement="0.8021014897000001" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="15783" runtime="8.01201996" finalOutcome="Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ]" startingAgent="GroupY@28" deadline="10s">
+<resultsOfAgent agent="GroupY@28" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="groupY.GroupY" finalUtility="0.8447576884253204" discountedUtility="0.8447576884253204" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="PonPokoAgent@29" agentDesc="ANAC2017" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.9024654385886731" discountedUtility="0.9024654385886731" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 15:33:03 EET 2018" timeOfAgreement="0.8016600327000001" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="17000" runtime="8.008480568" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ]" startingAgent="PonPokoAgent@30" deadline="10s">
+<resultsOfAgent agent="PonPokoAgent@30" agentDesc="ANAC2017" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.8891644616682702" discountedUtility="0.8891644616682702" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY@31" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="groupY.GroupY" finalUtility="0.863126091597135" discountedUtility="0.863126091597135" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 15:33:18 EET 2018" timeOfAgreement="0.9258675281000001" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="18116" runtime="9.250420121" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Hired Help, ]" startingAgent="Appaloosa@32" deadline="10s">
+<resultsOfAgent agent="Appaloosa@32" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.8741305232587357" discountedUtility="0.8741305232587357" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY@33" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="groupY.GroupY" finalUtility="0.863126091597135" discountedUtility="0.863126091597135" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 15:33:33 EET 2018" timeOfAgreement="0.9311200484000001" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="10337" runtime="9.299972407" finalOutcome="Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Hired Help, ]" startingAgent="GroupY@34" deadline="10s">
+<resultsOfAgent agent="GroupY@34" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="groupY.GroupY" finalUtility="0.8522746576300877" discountedUtility="0.8522746576300877" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa@35" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.8760618841420127" discountedUtility="0.8760618841420127" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 15:33:47 EET 2018" timeOfAgreement="0.8340847536" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="16470" runtime="8.332625928" finalOutcome="Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ]" startingAgent="PonPokoAgent@36" deadline="10s">
+<resultsOfAgent agent="PonPokoAgent@36" agentDesc="ANAC2017" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.8447576884253204" discountedUtility="0.8447576884253204" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa@37" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.9024654385886731" discountedUtility="0.9024654385886731" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 15:34:01 EET 2018" timeOfAgreement="0.9992342895" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="9571" runtime="9.984136684" finalOutcome="Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ]" startingAgent="Appaloosa@38" deadline="10s">
+<resultsOfAgent agent="Appaloosa@38" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.8447576884253204" discountedUtility="0.8447576884253204" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="PonPokoAgent@39" agentDesc="ANAC2017" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.9024654385886731" discountedUtility="0.9024654385886731" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 15:34:14 EET 2018" timeOfAgreement="0.9238337789" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="15807" runtime="9.230011965" finalOutcome="Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Hired Help, ]" startingAgent="GroupY@40" deadline="10s">
+<resultsOfAgent agent="GroupY@40" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="groupY.GroupY" finalUtility="0.7234950152255328" discountedUtility="0.7234950152255328" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="PonPokoAgent@41" agentDesc="ANAC2017" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.9416274624612428" discountedUtility="0.9416274624612428" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 15:34:25 EET 2018" timeOfAgreement="0.8018576087" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="16088" runtime="8.010155918" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ]" startingAgent="PonPokoAgent@42" deadline="10s">
+<resultsOfAgent agent="PonPokoAgent@42" agentDesc="ANAC2017" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" finalUtility="0.8891644616682702" discountedUtility="0.8891644616682702" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY@43" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="groupY.GroupY" finalUtility="0.863126091597135" discountedUtility="0.863126091597135" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 15:34:37 EET 2018" timeOfAgreement="0.9881358106" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="9151" runtime="9.873367432" finalOutcome="Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ]" startingAgent="Appaloosa@44" deadline="10s">
+<resultsOfAgent agent="Appaloosa@44" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.8447576884253204" discountedUtility="0.8447576884253204" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="GroupY@45" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="groupY.GroupY" finalUtility="0.9024654385886731" discountedUtility="0.9024654385886731" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Sun Oct 07 15:34:48 EET 2018" timeOfAgreement="0.8350617776" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="11079" runtime="8.342232343" finalOutcome="Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ]" startingAgent="GroupY@46" deadline="10s">
+<resultsOfAgent agent="GroupY@46" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="groupY.GroupY" finalUtility="0.8447576884253204" discountedUtility="0.8447576884253204" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa@47" agentDesc="Appaloosa" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="multipartyexample.Appaloosa" finalUtility="0.9024654385886731" discountedUtility="0.9024654385886731" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Tournament>

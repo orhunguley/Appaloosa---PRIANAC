@@ -1,0 +1,41 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of Appaloosa@1:java.lang.Error: Unresolved compilation problem: 
+	The method loadDataset() is undefined for the type Appaloosa
+: Unresolved compilation problem: 
+	The method loadDataset() is undefined for the type Appaloosa
+" currentTime="Wed Oct 03 01:01:27 EET 2018" lastAction="null" bids="0" runtime="0.018703199" deadline="10rounds">
+<resultsOfAgent agent="ConcederNegotiationParty" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of Appaloosa@2:java.lang.Error: Unresolved compilation problem: 
+	The method loadDataset() is undefined for the type Appaloosa
+: Unresolved compilation problem: 
+	The method loadDataset() is undefined for the type Appaloosa
+" currentTime="Wed Oct 03 01:01:27 EET 2018" lastAction="null" bids="0" runtime="0.006089524" deadline="10rounds">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ConcederNegotiationParty" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of Appaloosa@5:java.lang.Error: Unresolved compilation problem: 
+	The method loadDataset() is undefined for the type Appaloosa
+: Unresolved compilation problem: 
+	The method loadDataset() is undefined for the type Appaloosa
+" currentTime="Wed Oct 03 01:01:27 EET 2018" lastAction="null" bids="0" runtime="0.005151187" deadline="10rounds">
+<resultsOfAgent agent="ConcederNegotiationParty" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of Appaloosa@6:java.lang.Error: Unresolved compilation problem: 
+	The method loadDataset() is undefined for the type Appaloosa
+: Unresolved compilation problem: 
+	The method loadDataset() is undefined for the type Appaloosa
+" currentTime="Wed Oct 03 01:01:27 EET 2018" lastAction="null" bids="0" runtime="0.004984599" deadline="10rounds">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ConcederNegotiationParty" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Tournament>

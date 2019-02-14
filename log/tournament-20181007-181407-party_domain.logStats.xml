@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<agentsStatistics>
+    <statistics>
+        <agentname>agents.anac.y2017.ponpokoagent.PonPokoAgent</agentname>
+        <totalUndiscountedUtility>0.8483333333333334</totalUndiscountedUtility>
+        <totalDiscountedUtility>0.8483333333333334</totalDiscountedUtility>
+        <numberOfSessions>4</numberOfSessions>
+        <totalNashDist>3.311866007662453</totalNashDist>
+        <totalWelfare>1.7048243219144703</totalWelfare>
+        <totalParetoDistance>3.0360393573364517</totalParetoDistance>
+        <meanDiscounted>0.21208333333333335</meanDiscounted>
+        <meanNashDistance>0.8279665019156133</meanNashDistance>
+        <meanParetoDistance>0.7590098393341129</meanParetoDistance>
+        <meanUndiscounted>0.21208333333333335</meanUndiscounted>
+        <meanWelfare>0.4262060804786176</meanWelfare>
+    </statistics>
+    <statistics>
+        <agentname>multipartyexample.Appaloosa</agentname>
+        <totalUndiscountedUtility>0.8564909885811369</totalUndiscountedUtility>
+        <totalDiscountedUtility>0.8564909885811369</totalDiscountedUtility>
+        <numberOfSessions>2</numberOfSessions>
+        <totalNashDist>1.3118660076624533</totalNashDist>
+        <totalWelfare>1.7048243219144703</totalWelfare>
+        <totalParetoDistance>1.0360393573364515</totalParetoDistance>
+        <meanDiscounted>0.42824549429056846</meanDiscounted>
+        <meanNashDistance>0.6559330038312267</meanNashDistance>
+        <meanParetoDistance>0.5180196786682257</meanParetoDistance>
+        <meanUndiscounted>0.42824549429056846</meanUndiscounted>
+        <meanWelfare>0.8524121609572352</meanWelfare>
+    </statistics>
+    <statistics>
+        <agentname>C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class</agentname>
+        <totalUndiscountedUtility>0.0</totalUndiscountedUtility>
+        <totalDiscountedUtility>0.0</totalDiscountedUtility>
+        <numberOfSessions>2</numberOfSessions>
+        <totalNashDist>2.0</totalNashDist>
+        <totalWelfare>0.0</totalWelfare>
+        <totalParetoDistance>2.0</totalParetoDistance>
+        <meanDiscounted>0.0</meanDiscounted>
+        <meanNashDistance>1.0</meanNashDistance>
+        <meanParetoDistance>1.0</meanParetoDistance>
+        <meanUndiscounted>0.0</meanUndiscounted>
+        <meanWelfare>0.0</meanWelfare>
+    </statistics>
+</agentsStatistics>

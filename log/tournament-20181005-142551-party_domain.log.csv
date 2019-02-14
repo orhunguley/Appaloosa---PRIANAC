@@ -1,0 +1,14 @@
+sep=;
+Run time (s);Round;Exception;deadline;Agreement;Discounted;#agreeing;min.util.;max.util.;Dist. to Pareto;Dist. to Nash;Social Welfare;Agent 1;Agent 2;Utility 1;Utility 2;Disc. Util. 1;Disc. Util. 2;Profile 1;Profile 2
+0.073;17;;180rounds;Yes;No;2;0.78500;0.92857;0.00000;0.00000;1.71357;ConcederNegotiationParty@0;Appaloosa@1;0.7849999999999999;0.9285654723948509;0.7849999999999999;0.9285654723948509;party1_utility.xml;party2_utility.xml
+0.040;26;;180rounds;Yes;No;2;0.64973;0.92917;0.02068;0.31390;1.57890;Appaloosa@2;ConcederNegotiationParty@3;0.9291666666666667;0.6497308213786102;0.9291666666666667;0.6497308213786102;party1_utility.xml;party2_utility.xml
+0.093;92;;180rounds;Yes;No;2;0.29693;1.00000;0.00000;0.66723;1.29693;GroupY@4;ConcederNegotiationParty@5;1.0;0.2969260373579895;1.0;0.2969260373579895;party1_utility.xml;party2_utility.xml
+0.020;24;;180rounds;Yes;No;2;0.65833;1.00000;0.00000;0.14542;1.65833;ConcederNegotiationParty@6;GroupY@7;0.6583333333333333;1.0;0.6583333333333333;1.0;party1_utility.xml;party2_utility.xml
+0.296;181;;180rounds;No;No;1;0.00000;0.00000;1.03604;1.21592;0.00000;Appaloosa@8;GroupY@9;0.0;0.0;0.0;0.0;party1_utility.xml;party2_utility.xml
+0.268;181;;180rounds;No;No;1;0.00000;0.00000;1.03604;1.21592;0.00000;GroupY@10;Appaloosa@11;0.0;0.0;0.0;0.0;party1_utility.xml;party2_utility.xml
+0.026;18;;180rounds;Yes;No;2;0.72167;0.92793;0.04826;0.06334;1.64959;ConcederNegotiationParty@12;Appaloosa@13;0.7216666666666667;0.9279255161862858;0.7216666666666667;0.9279255161862858;party1_utility.xml;party2_utility.xml
+0.028;26;;180rounds;Yes;No;2;0.66621;0.94167;0.00000;0.30558;1.60787;Appaloosa@14;ConcederNegotiationParty@15;0.9416666666666667;0.6662075599338653;0.9416666666666667;0.6662075599338653;party1_utility.xml;party2_utility.xml
+0.089;92;;180rounds;Yes;No;2;0.29693;1.00000;0.00000;0.66723;1.29693;GroupY@16;ConcederNegotiationParty@17;1.0;0.2969260373579895;1.0;0.2969260373579895;party1_utility.xml;party2_utility.xml
+0.024;24;;180rounds;Yes;No;2;0.65833;1.00000;0.00000;0.14542;1.65833;ConcederNegotiationParty@18;GroupY@19;0.6583333333333333;1.0;0.6583333333333333;1.0;party1_utility.xml;party2_utility.xml
+0.270;181;;180rounds;No;No;1;0.00000;0.00000;1.03604;1.21592;0.00000;Appaloosa@20;GroupY@21;0.0;0.0;0.0;0.0;party1_utility.xml;party2_utility.xml
+0.282;181;;180rounds;Yes;No;2;0.70917;0.93590;0.04218;0.07619;1.64507;GroupY@22;Appaloosa@23;0.7091666666666667;0.9359002430413121;0.7091666666666667;0.9359002430413121;party1_utility.xml;party2_utility.xml

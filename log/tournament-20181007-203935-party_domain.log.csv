@@ -1,0 +1,4 @@
+sep=;
+Run time (s);Round;Exception;deadline;Agreement;Discounted;#agreeing;min.util.;max.util.;Dist. to Pareto;Dist. to Nash;Social Welfare;Agent 1;Agent 2;Utility 1;Utility 2;Disc. Util. 1;Disc. Util. 2;Profile 1;Profile 2
+10.000;9763;;10s;No;No;1;0.00000;0.00000;1.03604;1.21592;0.00000;Rubick@0;Appaloosa@1;0.0;0.0;0.0;0.0;party1_utility.xml;party2_utility.xml
+10.000;10641;;10s;No;No;1;0.00000;0.00000;1.03604;1.21592;0.00000;Appaloosa@2;Rubick@3;0.0;0.0;0.0;0.0;party1_utility.xml;party2_utility.xml

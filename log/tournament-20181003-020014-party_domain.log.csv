@@ -1,0 +1,6 @@
+sep=;
+Run time (s);Round;Exception;deadline;Agreement;Discounted;#agreeing;min.util.;max.util.;Dist. to Pareto;Dist. to Nash;Social Welfare;Agent 1;Agent 2;Utility 1;Utility 2;Disc. Util. 1;Disc. Util. 2;Profile 1;Profile 2
+0.040;5;;10rounds;Yes;No;2;0.57352;0.59833;0.30445;0.40112;1.17186;Appaloosa@0;ConcederNegotiationParty@1;0.5983333333333333;0.5735239939943523;0.5983333333333333;0.5735239939943523;party1_utility.xml;party2_utility.xml
+0.010;2;;10rounds;Yes;No;2;0.29693;1.00000;0.00000;0.66723;1.29693;ConcederNegotiationParty@2;Appaloosa@3;1.0;0.2969260373579895;1.0;0.2969260373579895;party1_utility.xml;party2_utility.xml
+0.010;5;;10rounds;Yes;No;2;0.55960;0.72000;0.20456;0.37465;1.27960;Appaloosa@4;ConcederNegotiationParty@5;0.7200000000000001;0.5596004918632117;0.7200000000000001;0.5596004918632117;party1_utility.xml;party2_utility.xml
+0.012;6;;10rounds;Yes;No;2;0.27019;0.75917;0.23239;0.65888;1.02935;ConcederNegotiationParty@6;Appaloosa@7;0.7591666666666667;0.2701872862982958;0.7591666666666667;0.2701872862982958;party1_utility.xml;party2_utility.xml

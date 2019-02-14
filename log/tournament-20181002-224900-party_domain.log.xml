@@ -1,0 +1,73 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome currentTime="Tue Oct 02 22:49:05 EET 2018" timeOfAgreement="0.45490744330000005" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Specialized Materials, ])" domain="etc/templates/partydomain/party_domain.xml" bids="10685" runtime="4.515912463" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Specialized Materials, ]" startingAgent="BoulwareNegotiationParty@0" deadline="10s">
+<resultsOfAgent agent="BoulwareNegotiationParty@0" agentDesc="Time-based agent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" finalUtility="0.975" discountedUtility="0.975" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ConcederNegotiationParty@1" agentDesc="Time-based conceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" finalUtility="0.49464690002105177" discountedUtility="0.49464690002105177" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Tue Oct 02 22:49:07 EET 2018" timeOfAgreement="0.1188240737" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="2812" runtime="1.174188962" finalOutcome="Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ]" startingAgent="ConcederNegotiationParty@2" deadline="10s">
+<resultsOfAgent agent="ConcederNegotiationParty@2" agentDesc="Time-based conceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" finalUtility="0.6583333333333333" discountedUtility="0.6583333333333333" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BoulwareNegotiationParty@3" agentDesc="Time-based agent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" finalUtility="1.0" discountedUtility="1.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;Appaloosa@4,Participant[Party4,PartyRepositoryItem[Appaloosa,C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class,Appaloosa, is mediator=false],etc/templates/partydomain/party1_utility.xml]&gt;:java.lang.IllegalArgumentException: Attribute names are not unique! Causes: 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' : Attribute names are not unique! Causes: 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' " currentTime="Tue Oct 02 22:49:07 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BoulwareNegotiationParty" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;Appaloosa@7,Participant[Party7,PartyRepositoryItem[Appaloosa,C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class,Appaloosa, is mediator=false],etc/templates/partydomain/party2_utility.xml]&gt;:java.lang.IllegalArgumentException: Attribute names are not unique! Causes: 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' : Attribute names are not unique! Causes: 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' " currentTime="Tue Oct 02 22:49:07 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="BoulwareNegotiationParty" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;Appaloosa@9,Participant[Party9,PartyRepositoryItem[Appaloosa,C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class,Appaloosa, is mediator=false],etc/templates/partydomain/party2_utility.xml]&gt;:java.lang.IllegalArgumentException: Attribute names are not unique! Causes: 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' : Attribute names are not unique! Causes: 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' " currentTime="Tue Oct 02 22:49:08 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="ConcederNegotiationParty" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;Appaloosa@10,Participant[Party10,PartyRepositoryItem[Appaloosa,C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class,Appaloosa, is mediator=false],etc/templates/partydomain/party1_utility.xml]&gt;:java.lang.IllegalArgumentException: Attribute names are not unique! Causes: 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' : Attribute names are not unique! Causes: 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' " currentTime="Tue Oct 02 22:49:08 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ConcederNegotiationParty" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Tue Oct 02 22:49:13 EET 2018" timeOfAgreement="0.45278388659999996" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Specialized Materials, ])" domain="etc/templates/partydomain/party_domain.xml" bids="10699" runtime="4.515716269" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Specialized Materials, ]" startingAgent="BoulwareNegotiationParty@12" deadline="10s">
+<resultsOfAgent agent="BoulwareNegotiationParty@12" agentDesc="Time-based agent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" finalUtility="0.975" discountedUtility="0.975" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ConcederNegotiationParty@13" agentDesc="Time-based conceder" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" finalUtility="0.49464690002105177" discountedUtility="0.49464690002105177" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Tue Oct 02 22:49:15 EET 2018" timeOfAgreement="0.11868097419999998" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="2796" runtime="1.173794204" finalOutcome="Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ]" startingAgent="ConcederNegotiationParty@14" deadline="10s">
+<resultsOfAgent agent="ConcederNegotiationParty@14" agentDesc="Time-based conceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" finalUtility="0.6583333333333333" discountedUtility="0.6583333333333333" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BoulwareNegotiationParty@15" agentDesc="Time-based agent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" finalUtility="1.0" discountedUtility="1.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;Appaloosa@16,Participant[Party16,PartyRepositoryItem[Appaloosa,C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class,Appaloosa, is mediator=false],etc/templates/partydomain/party1_utility.xml]&gt;:java.lang.IllegalArgumentException: Attribute names are not unique! Causes: 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' : Attribute names are not unique! Causes: 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' " currentTime="Tue Oct 02 22:49:15 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BoulwareNegotiationParty" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;Appaloosa@19,Participant[Party19,PartyRepositoryItem[Appaloosa,C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class,Appaloosa, is mediator=false],etc/templates/partydomain/party2_utility.xml]&gt;:java.lang.IllegalArgumentException: Attribute names are not unique! Causes: 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' : Attribute names are not unique! Causes: 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' " currentTime="Tue Oct 02 22:49:16 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="BoulwareNegotiationParty" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;Appaloosa@21,Participant[Party21,PartyRepositoryItem[Appaloosa,C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class,Appaloosa, is mediator=false],etc/templates/partydomain/party2_utility.xml]&gt;:java.lang.IllegalArgumentException: Attribute names are not unique! Causes: 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' : Attribute names are not unique! Causes: 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' " currentTime="Tue Oct 02 22:49:16 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="ConcederNegotiationParty" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome exception="failed to construct agent : Execution failed of init&lt;Appaloosa@22,Participant[Party22,PartyRepositoryItem[Appaloosa,C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class,Appaloosa, is mediator=false],etc/templates/partydomain/party1_utility.xml]&gt;:java.lang.IllegalArgumentException: Attribute names are not unique! Causes: 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' : Attribute names are not unique! Causes: 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' 'Issue 6' " currentTime="Tue Oct 02 22:49:16 EET 2018" lastAction="null" bids="0" runtime="0.0" deadline="10s">
+<resultsOfAgent agent="Appaloosa" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="C:\Users\og4428\orhun_workspace\Anac\bin\multipartyexample\Appaloosa.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ConcederNegotiationParty" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Tournament>
